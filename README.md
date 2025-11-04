@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Mirza Imaduddin!  
 
-Swapped **circuit boards for data dashboards** — and now exploring how **automation and data engineering** can simplify complex systems!  
 I’m an **Electronics and Communication Engineer** turned **Data Enthusiast**, passionate about building efficient data pipelines, designing automated workflows, and creating impactful solutions through code.  
 
 I love turning problems into structured processes — whether it’s automating a task, optimizing a workflow, or uncovering insights hidden in data.  
